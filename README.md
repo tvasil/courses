@@ -13,3 +13,4 @@ This is my private project to try to take better notes of the books I read and t
 
 **Other**
 - Notes from [satRday Berlin](https://berlin2019.satrdays.org/): A community organized conference in Berlin for R users. Topics include Bayesian inference and time series forecasting, deplying machine learning in R to production, etc. ⭐⭐⭐⭐⭐
+- [FBProphet](https://github.com/tvasil/notes/tree/master/prophet_learning): Notes and example notebooks exploring how the [FBProphet](https://facebook.github.io/prophet/) package works in Python for time series forecasting 
